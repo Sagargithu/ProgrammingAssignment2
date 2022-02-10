@@ -1,3 +1,7 @@
+# I AM REALLY CONFUSED HOW TO SUBMIT THE PEER GRADED ASSIGNMENT OF COURSERA AND EVEN I DON'T KNOW THAT WHEATHER I HAVE SUCCESSFULLY SUBMITTED IT OR NOT. 
+# SO IF ANY ONE IS FACING ANY PROBLEM PLEASE LET ME KNOW.
+
+
 # Put comments here that give an overall description of what your
 # makeCacheMatrix: This function creates a special “matrix” object that can cache its inverse.
 #cacheSolve: This function computes the inverse of the special “matrix” returned by makeCacheMatrix above
